@@ -1,3 +1,7 @@
+###### Для разработки на Python скачать и установить:
+###### Интерпретатор Python 3: https://www.python.org/downloads/
+###### Среда разработки: https://www.jetbrains.com/pycharm/download/
+
 #### Ввод/вывод
 ```python
 name = 'Sasha'
