@@ -1,6 +1,6 @@
 ###### Для разработки на Python скачать и установить:
 1. Интерпретатор Python 3: https://www.python.org/downloads/
-2. Среду разработки: https://www.jetbrains.com/pycharm/download/
+2. Среду разработки PyCharm: https://www.jetbrains.com/pycharm/download/
 
 #### Ввод/вывод
 ```python
